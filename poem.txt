@@ -2,3 +2,8 @@ The Rainbow
 blah 
 blah blah 
 done.
+
+
+green 
+blue 
+yellow
